@@ -1,0 +1,2 @@
+# Fortunesalg
+Fortune's Algorithm
